@@ -206,8 +206,6 @@ https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_480p/chunks.m
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/EUR0pgV.png",PE | PBO
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_480p/chunks.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/vBcOMjB.png",PE | R.P.P
-
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tExxAfF.png",PE | GLOBAL TV
 http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IOI7yyE.png",PE | Ovación
