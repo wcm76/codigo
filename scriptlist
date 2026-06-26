@@ -153,7 +153,6 @@ https://servilive.com:3604/live/antenaunotvlivelive.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/cNN1Sa0.png",PE | Antena Sur Puno
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8
 
-
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/99wZN6O.png", PE | ImpactoTV Juliaca
 https://cloudpro.servidoresdestream.com:8081/8010/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/bPM6mKM.png",PE | RCR red regional
@@ -213,8 +212,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_480p/chunks.m3u8
 http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IOI7yyE.png",PE | Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/rTjZTep.png",DSP0RTS
-http://walcond.ddnsgeek.com:70/play/a05a/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/4vUUQn4.jpeg",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/7DvhvBq.png",Bein Sports Extra ñ
