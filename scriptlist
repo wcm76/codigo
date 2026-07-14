@@ -5,6 +5,8 @@ https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="https://i.imgur.com/gopE6Fs.png", Love PLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documental" tvg-logo="https://i.imgur.com/1YaOOs6.png", PLANETA Historia
+https://live-evg10.tv360.bitel.com.pe/bitel/planetahisSRT/chunks.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="https://i.imgur.com/8EzliF6.png", GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Noticia" tvg-logo="https://i.imgur.com/6HhtU5o.png",DW En Español
