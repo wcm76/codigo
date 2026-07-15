@@ -231,6 +231,8 @@ http://walma.strangled.net:77/play/a065/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/60PCxSf.png",FMH family
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/fEZIgpu.png",D Pelicula
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://imgur.com/dxsSKY0",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/qbeA8kP.png",Cine Clasico
 https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/VyrR6HA.png",MiTV Clasico
