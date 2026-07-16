@@ -148,9 +148,10 @@ https://live-evg7.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/81lqvv0.png",PE | RTP Puno
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
-#EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/2ZSXKU1.png",PE | A UNO Puno
+#EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/2ZSXKU1.png",PE | SuperTV
 https://servilive.com:3604/live/antenaunotvlivelive.m3u8
-###https://live-evg8.tv360.bitel.com.pe/bitel/auno/chunks.m3u8
+#EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/FpJPxyj.png",PE | A UNO Puno
+https://live-evg8.tv360.bitel.com.pe/bitel/auno/chunks.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/cNN1Sa0.png",PE | Antena Sur Puno
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8
 
