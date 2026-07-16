@@ -163,7 +163,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/rcr/chunks.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/glWpn2s.png",PE | CPN Cable Noticia
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/40Ncfuy.png",PE | Cable Vision Santa Clara
-###https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/KLv7ant.jpeg",PE | Fierro a Fondo
 https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/chunks.m3u8
 
