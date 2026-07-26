@@ -220,8 +220,6 @@ https://cnn.hostlagarto.com/megacinetv/index.m3u8
 https://a0b1c2d3e4f5g6h7i8j9klmnopqrstuvwxyz__@cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/IzFsLo0.png",AMC
 https://a0b1c2d3e4f5g6h7i8j9klmnopqrstuvwxyz__@amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/CaxPbLr.png",Cine Premium
-http://walma.strangled.net:77/play/a065/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/60PCxSf.png",FMH family
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/fEZIgpu.png",D Pelicula
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
