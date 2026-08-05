@@ -44,6 +44,8 @@ https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist.m3u8
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",BO| ShowTV Oruro
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
+#EXTINF:-1 group-title="TVLatino" tvg-logo="",EC| Pantalla Clasica
+https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/b3UCagU.png",EC| Ecuavisa
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/0UWKvMy.png",VE| Venevisión
