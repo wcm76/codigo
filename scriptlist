@@ -157,7 +157,8 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/KLv7ant.jpeg",PE | Fierro a Fondo
 https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/chunks.m3u8
-
+#EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/fflfJEK.jpeg",PE | SumacTV
+https://live-evg7.tv360.bitel.com.pe/bitel/sumactv/chunks.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/ZONF6SP.png",PE | La Tele
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/P7CXoN7.png",PE | JN19
