@@ -199,7 +199,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana_transcoder6.stream/ch
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/vBcOMjB.png",PE | R.P.P
 http://walma.strangled.net:8989/btnscrtn/RPP/playlist.m3u8
 #EXTINF:-1 group-title="Perú"tvg-logo="https://i.ibb.co/7dZvdnMf/ATV.png",ATV
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/atv.stream/playlist.m3u8
+http://walma.strangled.net:8989/btnscrtn/atv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/Uh0IFtV.png",PE | ATV +
 https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/krbTQQI.png",PE | ATV Sur
