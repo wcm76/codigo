@@ -249,5 +249,5 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="",Cine Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="",A&E
-http://38.210.105.10:8000/play/a0be/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo="",RADIO
+https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist.m3u8
