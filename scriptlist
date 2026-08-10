@@ -230,7 +230,7 @@ https://cnn.hostlagarto.com/megacinetv/index.m3u8
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="",NeOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 grouptv-title="Cine" g-logo="",NEOTV
+#EXTINF:-1 grouptv-title="Cine" g-logo="",NTV
 http://201.230.121.85:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/67QNa5v.png",AuroraFilm
 https://a0b1c2d3e4f5g6h7i8j9klmnopqrstuvwxyz__@cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
