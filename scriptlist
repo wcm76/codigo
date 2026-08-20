@@ -132,7 +132,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/CBti11b.png", PE | Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
-
+#EXTINF:-1 group-title="Regional" tvg-logo="", PE | WAYRA TV
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/oBRexMX.png", PE | CTC Cusco
 https://live-evg7.tv360.bitel.com.pe/bitel/ctc/chunks.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/aWufww2.png", PE | Solar TV Cusco
