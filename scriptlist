@@ -180,6 +180,9 @@ https://live-evg1.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/fa8P2sN.png",PE | Señal Perú
 https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="",PE | TV Peruanisima
+https://livestream.perucast.com/hls/stream.m3u8
+https://k20.usastreams.com:8081/tvperuanisima/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/25nTXZw.png",PE | RadioTV Chalaca
 https://servilive.com:3414/hybrid/play.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/0uSHOAd.png",PE | NACIONAL TV peru
