@@ -190,7 +190,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/chunks.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/oNFOKFI.png",PE | BHTV
 https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yb0wJd6.png",PE | TV PERU
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperu.stream/playlist.m3u8
+http://walma.strangled.net:8989/btnscrtn/tvperu.stream/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yyebsVe.png",PE | Sur Peru
 https://s3.tvdatta.com:3781/live/surtvlive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/S42Lq49.png",PE | Onda Digital
