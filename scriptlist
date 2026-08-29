@@ -208,7 +208,7 @@ https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_480p.
 http://walma.strangled.net:8989/btnscrtn/latina_transcoder6.stream/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/QWIg69V.png",PE | PANAMERICANA
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana_transcoder6.stream/chunks.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/vBcOMjB.png",PE | R.P.P
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.ibb.co/PvJHFKzy/rpp.png",PE | R.P.P
 http://walma.strangled.net:8989/btnscrtn/RPP/playlist.m3u8
 #EXTINF:-1 group-title="Perú"tvg-logo="https://i.ibb.co/7dZvdnMf/ATV.png",ATV
 https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
