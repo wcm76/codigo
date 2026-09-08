@@ -204,7 +204,7 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/v674LXd.png",PE | AMERICA
 https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_480p.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://ibb.co/0j7gnmW1",PE | LATINA
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/wmLrdJt.png",PE | LATINA
 http://walma.strangled.net:8989/btnscrtn/latina_transcoder6.stream/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/QWIg69V.png",PE | PANAMERICANA
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana_transcoder6.stream/chunks.m3u8
