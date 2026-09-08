@@ -29,19 +29,19 @@ http://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Noticia" tvg-logo="https://i.ibb.co/pv5Ggqr3/Pz-D57n-T.png",CGTN China
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/Ov7A1iO.png",CL| MEGA
+#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/jkXQmj2M/Ov7A1i-O.png",CL| MEGA
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/zJ549uP.png",CL| LA RED
+#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/4wvhtcR9/z-J549u-P.png",CL| LA RED
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="TVLatino"  tvg-logo="https://i.imgur.com/Z15Psuu.png",CL |OLI RetroTV
+#EXTINF:-1 group-title="TVLatino"  tvg-logo="https://i.ibb.co/tp3dkDPb/Z15Psuu.png",CL |OLI RetroTV
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/Z3Qwxnb.png",BO| CTV
+#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/bM5fPm4T/Z3Qwxnb.png",BO| CTV
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
-#EXTINF:-1 group-title="TVLatino"  tvg-logo="https://i.imgur.com/v0KOUd1.png",BO| ATB
+#EXTINF:-1 group-title="TVLatino"  tvg-logo="https://i.ibb.co/j9fCHCyF/atb.png",BO| ATB
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/FEnUQxT.png",BO| BOLIVISION
+#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/9Hc9zYsR/FEn-UQx-T.png",BO| BOLIVISION
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/2FwzLgQ.png",BO| RTP
+#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/QvLfwhXt/2-Fwz-Lg-Q.png",BO| RTP
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/2bpKbxY.png",BO| VOSTV
 https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist.m3u8
