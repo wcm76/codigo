@@ -43,17 +43,19 @@ http://186.121.206.197/live/daniel/index.m3u8
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/QvLfwhXt/2-Fwz-Lg-Q.png",BO| RTP
 https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/2bpKbxY.png",BO| VOSTV
+#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/DP4nst7f/2bp-Kbx-Y.png",BO| VOSTV
 https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist.m3u8
-#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/31reTVd.jpeg",BO| CoralTV
+#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/z3kq9mB/31re-TVd.jpg",BO| CoralTV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",BO| ShowTV Oruro
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
+#EXTINF:-1 group-title="TVLatino" tvg-logo="",BO| Red America
+https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",EC| Pantalla Clasica
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/b3UCagU.png",EC| Ecuavisa
+#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/tpySZc7x/b3UCag-U.png",EC| Ecuavisa
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/0UWKvMy.png",VE| Venevisión
+#EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/DDZM0dXT/0UWKv-My.png",VE| Venevisión
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8
 #EXTINF:-1 group-title="TVLatino"  tvg-logo="https://i.imgur.com/hKFluJG.png",VE |Vepaco TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
