@@ -107,6 +107,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/1tM1NIc.png",Extrema CARTOON
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="",DISCOVERY-KIDS
+http://walma.strangled.net:44/DISCOVERY-KIDS/index.m3u8
 
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/FmzFO4S.png", PE | FOROTV Puno
 https://mc.servidor.stream:19360/8274/8274.m3u8
