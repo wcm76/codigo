@@ -55,6 +55,7 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",BO| Red America
 https://edge.enhdtv.com/redamerica/index.m3u8
+
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",EC| Pantalla Clasica
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/tpySZc7x/b3UCag-U.png",EC| Ecuavisa
@@ -123,6 +124,8 @@ https://srt.grupolimalive.com:8081/tvomajes/video.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/wVQO1uO.png", PE | Vision Sur AQP
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
+#EXTINF:-1 group-title="Regional" tvg-logo="",  PE| lIDER TV AQP
+https://play.agenciastreaming.com:8081/superhits/video.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/JhMsQz5.png", PE | Contacto san Martin
 https://live.obslivestream.com/contactotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/J0DvIR2.png", PE | Conecta2TV Surco Lima
@@ -196,7 +199,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/chunks.m3u8
 https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yb0wJd6.png",PE | TV PERU
 http://walma.strangled.net:8989/btnscrtn/tvperu.stream/chunks.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yyebsVe.png",PE | Sur Peru
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yyebsVe.png",PE | Sur tv
 https://s3.tvdatta.com:3781/live/surtvlive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/S42Lq49.png",PE | Onda Digital
 https://tv.ondadigital.pe/ondadigital/index.m3u8
