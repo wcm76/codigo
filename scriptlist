@@ -196,10 +196,14 @@ https://servilive.com:3414/hybrid/play.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/chunks.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/oNFOKFI.png",PE | BHTV
 https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/JhMsQz5.png", PE | Contacto + DEPORTE
 https://live.obslivestream.com/contactotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/FpJPxyj.png",PE | SuperTV + DEPORTE
 https://servilive.com:3604/live/antenaunotvlivelive.m3u8
+#EXTINF:-1 group-title="Regional" tvg-logo="",PE | RTV + DEPORTE
+https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yb0wJd6.png",PE | TV PERU
 http://walma.strangled.net:8989/btnscrtn/tvperu.stream/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yyebsVe.png",PE | Sur tv
