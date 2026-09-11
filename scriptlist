@@ -96,8 +96,6 @@ https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="",ECUAVISA
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/OkXTcFb.png",Bollywood TV Indú
-http://201.230.121.85:8000/play/BOLLYWOODTV/index.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/WdTunAB.png",BonitaTV Doramas Korea
 https://live-evg8.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/bXC1Hb4.png",Las Estrellas
