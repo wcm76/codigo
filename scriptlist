@@ -253,13 +253,13 @@ http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IOI7yyE.png",PE | Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IxjQl0e.png",PE | L1Max
-
+https://live20.bozztv.com/akamaissh101/ssh101/vcanal/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="",Movistar
 
 #EXTINF:-1 group-title="Perú" tvg-logo="",PE | Bella Asuncion
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="",ESPN
-http://walma.strangled.net:44/ESPN/index.m3u8
+http://walnet.mooo.com:44/ESPN/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/4vUUQn4.jpeg",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/7DvhvBq.png",Bein Sports Extra ñ
