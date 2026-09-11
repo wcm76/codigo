@@ -260,7 +260,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/vcanal/playlist.m3u8
 
 #EXTINF:-1 group-title="Perú" tvg-logo="",PE | Bella Asuncion
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="",ESPN
+#EXTINF:-1 group-title="Deportes" tvg-logo="",E5PN
 http://walnet.mooo.com:44/ESPN/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/4vUUQn4.jpeg",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
