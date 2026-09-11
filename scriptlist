@@ -201,7 +201,7 @@ https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 https://live.obslivestream.com/contactotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/FpJPxyj.png",PE | SuperTV + DEPORTE
 https://servilive.com:3604/live/antenaunotvlivelive.m3u8
-#EXTINF:-1 group-title="Regional" tvg-logo="",PE | RTV + DEPORTE
+#EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/IUI5QUd.png",PE | RTV + DEPORTE
 https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yb0wJd6.png",PE | TV PERU
