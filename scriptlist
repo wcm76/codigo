@@ -53,6 +53,8 @@ https://rtp.noxun.net/hls/stream.m3u8
 https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/z3kq9mB/31re-TVd.jpg",BO| CoralTV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
+#EXTINF:-1 group-title="TVLatino" tvg-logo="",BO| ShowTV
+http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",BO| ShowTV Oruro
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",BO| Red America
