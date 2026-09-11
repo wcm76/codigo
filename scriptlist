@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Cocina" tvg-logo="https://i.ibb.co/k2CTzydN/5UEb-QQx.png", COCINA
-https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+https://goo.su/kmPUFm
+###https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 group-title="Cocina" tvg-logo="https://i.ibb.co/z3BpSJW/Y5qp-TUV.png" , GUSTO TV
 https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
 
