@@ -62,7 +62,6 @@ http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",CR| TVSUR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",EC| Pantalla Clasica
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/tpySZc7x/b3UCag-U.png",EC| Ecuavisa
