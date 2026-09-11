@@ -37,6 +37,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/jkXQmj2M/Ov7A1i-O.png",CL| MEGA
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 group-title="TVLatino" tvg-logo="",CL| UTALCA
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/4wvhtcR9/z-J549u-P.png",CL| LA RED
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="TVLatino"  tvg-logo="https://i.ibb.co/tp3dkDPb/Z15Psuu.png",CL |OLI RetroTV
