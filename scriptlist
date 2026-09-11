@@ -128,8 +128,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 group-title="Regional" tvg-logo="",  PE| lIDER TV AQP
 https://play.agenciastreaming.com:8081/superhits/video.m3u8
-#EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/JhMsQz5.png", PE | Contacto san Martin
-https://live.obslivestream.com/contactotv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/J0DvIR2.png", PE | Conecta2TV Surco Lima
 https://link.obslivestream.com/conecta2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/n1HR3ny.png", PE | MilenialTV PL Lima
@@ -166,8 +165,6 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/2ZSXKU1.png",PE | A UNO Puno
 https://live-evg8.tv360.bitel.com.pe/bitel/auno/chunks.m3u8
-#EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/FpJPxyj.png",PE | SuperTV
-https://servilive.com:3604/live/antenaunotvlivelive.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/cNN1Sa0.png",PE | Antena Sur Puno
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8
 
@@ -199,6 +196,10 @@ https://servilive.com:3414/hybrid/play.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/chunks.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/oNFOKFI.png",PE | BHTV
 https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
+#EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/JhMsQz5.png", PE | Contacto + DEPORTE
+https://live.obslivestream.com/contactotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/FpJPxyj.png",PE | SuperTV + DEPORTE
+https://servilive.com:3604/live/antenaunotvlivelive.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yb0wJd6.png",PE | TV PERU
 http://walma.strangled.net:8989/btnscrtn/tvperu.stream/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yyebsVe.png",PE | Sur tv
