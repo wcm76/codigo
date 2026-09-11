@@ -19,7 +19,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="", NATGEO
 http://walnet.mooo.com:8998/natgeo/index.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="", History2
-http://192.168.3.86:84/channel/n3f07fe0b/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.aYpOUw0y4P3LSLMdTgUoExOm20Cm4ve9CrTbIuaRfx75PiJYxKtDfqYb_c1EWTClo1CBEez0KHjfLchkvlqfcA
+
 #EXTINF:-1 group-title="Noticia" tvg-logo="https://i.ibb.co/B2PFtVD5/6Hht-U5o.png",DW En Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Noticia" tvg-logo="https://i.ibb.co/G4YN9VB6/Ds-T4LY1.png",France24
