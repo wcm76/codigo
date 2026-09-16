@@ -232,12 +232,12 @@ https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/v674LXd.png",PE | AMERICA
-https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_480p.m3u8
+http://walnet.mooo.com:44/AMERICA-TV/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.ibb.co/C3w4SyPx/latina.png",PE | LATINA
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 ###http://walma.strangled.net:8989/btnscrtn/latina_transcoder6.stream/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/QWIg69V.png",PE | PANAMERICANA
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana_transcoder6.stream/chunks.m3u8
+http://walnet.mooo.com:44/PANAMERICANA/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.ibb.co/PvJHFKzy/rpp.png",PE | R.P.P
 http://walma.strangled.net:8989/btnscrtn/RPP/playlist.m3u8
 #EXTINF:-1 group-title="Perú"tvg-logo="https://i.ibb.co/7dZvdnMf/ATV.png",ATV
