@@ -280,8 +280,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://190.117.20.37:8000/play/a0hm/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="",IMPACTO TV
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="",SUPERCANAL TV
-https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/Ikm7Iz3.png",Mega CINE TV
 https://cnn.hostlagarto.com/megacinetv/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="",Nim TV
