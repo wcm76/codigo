@@ -259,7 +259,7 @@ http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IOI7yyE.png",PE | Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IxjQl0e.png",PE | LlM4X
-http://190.93.224.42/LIGA-1-MAX/index.m3u8
+http://190.117.20.37:8000/play/a08c/index.m3u8
 ###https://lbgo.bozztv.com/ssh101/ssh101/vcanal/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 group-title="Perú" tvg-logo="",Movistar
 
