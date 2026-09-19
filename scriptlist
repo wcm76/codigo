@@ -240,7 +240,8 @@ http://walnet.mooo.com:44/LATINA/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/QWIg69V.png",PE | PANAMERICANA
 http://walnet.mooo.com:44/PANAMERICANA/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.ibb.co/PvJHFKzy/rpp.png",PE | R.P.P
-http://walma.strangled.net:8989/btnscrtn/RPP/playlist.m3u8
+http://walnet.mooo.com:44/RPP/index.m3u8
+###http://walma.strangled.net:8989/btnscrtn/RPP/playlist.m3u8
 #EXTINF:-1 group-title="Perú"tvg-logo="https://i.ibb.co/7dZvdnMf/ATV.png",ATV
 https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/Uh0IFtV.png",PE | ATV +
@@ -250,7 +251,8 @@ https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_480p/chunks.
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/odBA0dp.png",PE | WILLAX
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_480p/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/95s2LJ3.png",PE | EXITOSA
-https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+http://walnet.mooo.com:44/EXITOSA/index.m3u8
+###https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/EUR0pgV.png",PE | PBO
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_480p/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/tExxAfF.png",PE | GLOBAL TV
