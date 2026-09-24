@@ -74,6 +74,8 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino"  tvg-logo="https://i.imgur.com/HhPxbi9.png",VE |Tele Color
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+#EXTINF:-1 group-title="TVLatino"  tvg-logo="",ARG |canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="TVLatino"  tvg-logo="https://i.imgur.com/FIRoBgB.png",CUB |Canal Marti
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.imgur.com/nWSAeyP.png",MX| Telemundo
