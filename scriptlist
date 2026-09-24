@@ -32,7 +32,8 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 group-title="Noticia" tvg-logo="https://i.ibb.co/nNW8HdMR/4K2Dzkb.png",HispanTV
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
 #EXTINF:-1 group-title="Noticia" tvg-logo="https://i.ibb.co/6csbVVdF/R7Iw-BBY.png",RT
-http://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
+###http://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Noticia" tvg-logo="https://i.ibb.co/pv5Ggqr3/Pz-D57n-T.png",CGTN China
 https://espanol-liveali-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=310f9fa9bd29e9230315920d46e3bc91&wsTime=1789825117
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/jkXQmj2M/Ov7A1i-O.png",CL| MEGA
