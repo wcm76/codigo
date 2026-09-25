@@ -90,6 +90,8 @@ http://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/RyUl30v.png",TLvisa
 https://ntvtlvisa_@televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Novelas" tvg-logo="",Novelas F
+https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/JAv3PUy.png",Novelas Turcas
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/Dy4bBVX.png",AZ Corazon
