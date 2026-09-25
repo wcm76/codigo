@@ -270,9 +270,8 @@ http://walnet.mooo.com:44/GLOBAL/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IOI7yyE.png",PE | Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IxjQl0e.png",PE | LlM4X
-http://38.7.195.44:8000/play/a0es
 ###http://walma.strangled.net:8300/play/a010/index.m3u8
-###https://lbgo.bozztv.com/ssh101/ssh101/vcanal/chunks.m3u8?lb_backend_hint=7
+https://lbgo.bozztv.com/ssh101/ssh101/vcanal/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 group-title="Perú" tvg-logo="",Movistar
 
 #EXTINF:-1 group-title="Perú" tvg-logo="",PE | Bella Asuncion
