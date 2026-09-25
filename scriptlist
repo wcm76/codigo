@@ -279,7 +279,7 @@ http://38.7.195.44:8000/play/a0es
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/R8w5u53.png",E5PN
 http://walnet.mooo.com:44/ESPN/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="",D5P0RT5
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/vw0CdkC.png",D5P0RT5
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/4vUUQn4.jpeg",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
