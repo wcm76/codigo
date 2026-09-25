@@ -326,3 +326,5 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="",Top Latino
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo="", HITS
+http://191.97.49.82:8001/play/a00x/index.m3u8
