@@ -39,6 +39,8 @@ https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
 https://espanol-liveali-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=310f9fa9bd29e9230315920d46e3bc91&wsTime=1789825117
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",ES| TV STAR
 http://38.252.238.18:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="TVLatino" tvg-logo="",ES| Antena 3 Internacional
+http://38.252.238.18:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/jkXQmj2M/Ov7A1i-O.png",CL| MEGA
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",CL| UTALCA
