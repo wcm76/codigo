@@ -20,7 +20,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="", HISTORIA
 https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="", PLANETA ANIMAL
-http://38.252.238.18:8000/play/a016/index.m3u8
+http://walnet.mooo.com:70/econocable/stream/ANIMALPLANET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=3534495453&_cdn_token=0dd94ee63d4d3c3dde299c79d483e6d6b08822a4
 
 #EXTINF:-1 group-title="Noticia" tvg-logo="https://i.ibb.co/B2PFtVD5/6Hht-U5o.png",DW En Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
