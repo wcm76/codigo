@@ -227,6 +227,8 @@ https://servilive.com:3604/live/antenaunotvlivelive.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/IUI5QUd.png",PE | RTV + DEPORTE
 https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/PL0ay9D.png",PE | CANAL CONGRESO PERU
+http://walnet.mooo.com:70/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=3111204499&_cdn_token=31fd7ebe28ba1f23f01b59a4e7bb8865eed6c631
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yb0wJd6.png",PE | TV PERU
 http://walma.strangled.net:8989/btnscrtn/tvperu.stream/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yyebsVe.png",PE | Sur tv
