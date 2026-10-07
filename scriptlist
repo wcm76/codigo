@@ -287,8 +287,9 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/PZNsHH8.png",PE | BICOLOR liga 2
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/bitel/bicolorfree_480p/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IxjQl0e.png",PE | LlM4X
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
 ###http://walma.strangled.net:8300/play/a010/index.m3u8
-https://lbgo.bozztv.com/ssh101/ssh101/vcanal/chunks.m3u8?lb_backend_hint=7
+###https://lbgo.bozztv.com/ssh101/ssh101/vcanal/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 group-title="Perú" tvg-logo="",Movistar
 
 #EXTINF:-1 group-title="Perú" tvg-logo="",PE | Bella Asuncion
