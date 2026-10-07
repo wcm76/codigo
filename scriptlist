@@ -289,6 +289,8 @@ http://walnet.mooo.com:44/GLOBAL/index.m3u8
 ###http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IOI7yyE.png",PE | Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="",PE | JUNTOS
+http://38.7.195.44:8000/play/a0es
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/PZNsHH8.png",PE | BICOLOR liga 2
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/bitel/bicolorfree_480p/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IxjQl0e.png",PE | LlM4X
