@@ -272,8 +272,7 @@ http://walnet.mooo.com:44/ATV-PLUS/index.m3u8
 http://walnet.mooo.com:44/ATV-SUR/index.m3u8
 ###https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_480p/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/odBA0dp.png",PE | WILLAX
-http://walnet.mooo.com:44/WILLAX/index.m3u8
-###https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_480p/chunks.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_480p/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/95s2LJ3.png",PE | EXITOSA
 http://walnet.mooo.com:44/EXITOSA/index.m3u8
 ###https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
