@@ -109,6 +109,8 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://live-evg8.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/datYWHs.png",FreeTV Asia
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
+#EXTINF:-1 group-title="Novelas" tvg-logo="",SerieTV Asia
+https://d12gw43btk2com.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-okhb3cso3rj4v/e66911c8_a9c5_4206_979f_1ad694dcb8ad/hls/playlist.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/bXC1Hb4.png",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
