@@ -6,7 +6,7 @@ https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="https://i.imgur.com/1YaOOs6.png", PLANETA Historia
 https://live-evg10.tv360.bitel.com.pe/bitel/planetahisSRT/chunks.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="https://i.imgur.com/oAAbR2A.png", PLANETA SALVAJE
-https://live-evg10.tv360.bitel.com.pe/bitel/planetasalvaje/chunks.m3u8
+
 #EXTINF:-1 group-title="Documental" tvg-logo="https://i.ibb.co/k6M9PbCb/F3ALv-TL.png", Extrema WILD ANIMAL
 https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="https://i.ibb.co/PzbBx2nG/gop-E6Fs.png", Love PLANET
@@ -36,7 +36,7 @@ https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.
 https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
 ###http://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Noticia" tvg-logo="https://i.ibb.co/pv5Ggqr3/Pz-D57n-T.png",CGTN China
-https://espanol-liveali-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=310f9fa9bd29e9230315920d46e3bc91&wsTime=1789825117
+
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",ES| TV STAR
 http://38.252.238.18:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",ES| Antena 3 Internacional
@@ -46,15 +46,15 @@ https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",CL| UTALCA
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/4wvhtcR9/z-J549u-P.png",CL| LA RED
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 group-title="TVLatino"  tvg-logo="https://i.ibb.co/tp3dkDPb/Z15Psuu.png",CL |OLI RetroTV
-https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/bM5fPm4T/Z3Qwxnb.png",BO| CTV
-https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
+
 #EXTINF:-1 group-title="TVLatino"  tvg-logo="https://i.ibb.co/j9fCHCyF/atb.png",BO| ATB
-http://186.121.206.197/live/daniel/index.m3u8
+
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/9Hc9zYsR/FEn-UQx-T.png",BO| BOLIVISION
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/QvLfwhXt/2-Fwz-Lg-Q.png",BO| RTP
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/DP4nst7f/2bp-Kbx-Y.png",BO| VOSTV
@@ -68,7 +68,7 @@ https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",CR| TVSUR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="",EC| Pantalla Clasica
-https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/tpySZc7x/b3UCag-U.png",EC| Ecuavisa
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 group-title="TVLatino" tvg-logo="https://i.ibb.co/DDZM0dXT/0UWKv-My.png",VE| Venevisión
