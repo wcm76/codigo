@@ -272,7 +272,7 @@ http://walnet.mooo.com:44/ATV-PLUS/index.m3u8
 http://walnet.mooo.com:44/ATV-SUR/index.m3u8
 ###https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_480p/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/odBA0dp.png",PE | WILLAX
-https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_480p/chunks.m3u8
+http://45.186.254.75:8000/play/a0c6/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/95s2LJ3.png",PE | EXITOSA
 http://walnet.mooo.com:44/EXITOSA/index.m3u8
 ###https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
@@ -284,6 +284,8 @@ http://walnet.mooo.com:44/GLOBAL/index.m3u8
 ###http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IOI7yyE.png",PE | Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/PZNsHH8.png",PE | BICOLOR liga 2
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/bitel/bicolorfree_480p/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IxjQl0e.png",PE | LlM4X
 ###http://walma.strangled.net:8300/play/a010/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/vcanal/chunks.m3u8?lb_backend_hint=7
