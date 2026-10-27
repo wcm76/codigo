@@ -111,6 +111,8 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://live-evg8.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/FcqUlGV.png",TL NOVELAS
 http://45.228.234.30:16000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/IxQkZyn.png",TLNOVELAS
+http://cdn4.eco.cdn.moderntv.eu/econocable/stream/TELENOVELAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOVELAS_stream_ak&_cdn_session=3534424829&_cdn_token=d2312567892127b9738f9a1ede52ec4c64713ab8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/WdTunAB.png",BonitaTV Doramas Korea
 https://live-evg8.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/datYWHs.png",FreeTV Asia
