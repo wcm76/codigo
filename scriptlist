@@ -162,9 +162,8 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 group-title="Infantil" tvg-logo="",DISNEY 
 http://45.134.141.161:2200/ARG/Disney_Jr/index.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="",CARTOON
-http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
+#EXTINF:-1 group-title="Infantil" tvg-logo="",NickJR
+http://45.134.141.161:2200/ARG/Nick_Jr/index.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/FmzFO4S.png", PE | FOROTV Puno
 https://mc.servidor.stream:19360/8274/8274.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/Um0w7GL.png", PE | Radio Uno Tacna
