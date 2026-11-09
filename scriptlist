@@ -18,7 +18,8 @@ http://45.70.201.81:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="https://i.ibb.co/wNNgZQ95/8Ezli-F6.png", GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="", N4TGEO
-
+#EXTINF:-1 group-title="Documental" tvg-logo="", DISCOVERY CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
 #EXTINF:-1 group-title="Documental" tvg-logo="", HISTORIA
 https://d1k3vzh2ivy22k.cloudfront.net/Historia720.m3u8
 
@@ -248,7 +249,8 @@ https://live.obslivestream.com/contactotv/tracks-v1a1/mono.m3u8
 https://servilive.com:3604/live/antenaunotvlivelive.m3u8
 #EXTINF:-1 group-title="Regional" tvg-logo="https://i.imgur.com/IUI5QUd.png",PE | RTV + DEPORTE
 https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="Regional" tvg-logo="",PE | Fierro a Fondo
+http://45.70.201.81:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/PL0ay9D.png",PE | CANAL CONGRESO PERU
 http://walnet.mooo.com:70/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=3111204499&_cdn_token=31fd7ebe28ba1f23f01b59a4e7bb8865eed6c631
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/yb0wJd6.png",PE | TV PERU
