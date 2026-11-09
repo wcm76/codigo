@@ -311,7 +311,7 @@ https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="",PE | Bella Asuncion
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/R8w5u53.png",E5PN
-http://walnet.mooo.com:44/ESPN/index.m3u8
+
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/vw0CdkC.png",D5P0RT5
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/4vUUQn4.jpeg",Real Madrid TV
@@ -338,6 +338,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://a0b1c2d3e4f5g6h7i8j9klmnopqrstuvwxyz__@cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/IzFsLo0.png",AMC
 https://a0b1c2d3e4f5g6h7i8j9klmnopqrstuvwxyz__@amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/KBbK1Bk.png",AXN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/60PCxSf.png",FMH family
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/fEZIgpu.png",D Pelicula
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
