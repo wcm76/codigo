@@ -1,0 +1,220 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WebPlayer HLS</title>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<style>
+    body {
+        margin: 0;
+        background: #111;
+        font-family: Arial, sans-serif;
+        color: white;
+    }
+
+    .player-container {
+        width: 100%;
+        max-width: 900px;
+        margin: 30px auto;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+
+    .video-box {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        background: #000;
+        overflow: hidden;
+        border-radius: 10px;
+    }
+
+    video {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+
+    #aviso {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background: rgba(0,0,0,.85);
+        color: #ff5252;
+        font-size: 18px;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
+    .controles {
+        display: flex;
+        gap: 8px;
+        margin-top: 12px;
+    }
+
+    input {
+        flex: 1;
+        min-width: 0;
+        padding: 12px;
+        border: none;
+        border-radius: 5px;
+        background: #222;
+        color: white;
+    }
+
+    button {
+        padding: 12px 18px;
+        border: none;
+        border-radius: 5px;
+        background: #e50914;
+        color: white;
+        cursor: pointer;
+    }
+</style>
+</head>
+
+<body>
+
+<div class="player-container">
+
+    <h2>Mi WebPlayer</h2>
+
+    <div class="video-box">
+
+        <video id="video" controls playsinline></video>
+
+        <div id="aviso">
+            Introduce un enlace M3U8 para reproducir
+        </div>
+
+    </div>
+
+    <div class="controles">
+
+        <input
+            type="text"
+            id="url"
+            placeholder="Pega aquí tu enlace .m3u8"
+        >
+
+        <button onclick="reproducir()">ooo</button>
+
+    </div>
+
+</div>
+
+<script>
+
+const video = document.getElementById("video");
+const aviso = document.getElementById("aviso");
+const urlInput = document.getElementById("url");
+
+let hls = null;
+let timeout = null;
+
+function mostrarAviso(mensaje) {
+    aviso.style.display = "flex";
+    aviso.textContent = mensaje;
+}
+
+function reproducir() {
+
+    const url = urlInput.value.trim();
+
+    if (!url) {
+        mostrarAviso(" Introduce un enlace M3U8");
+        return;
+    }
+
+    clearTimeout(timeout);
+
+    if (hls) {
+        hls.destroy();
+        hls = null;
+    }
+
+    video.pause();
+    video.removeAttribute("src");
+    video.load();
+
+    mostrarAviso(" Conectando con el servidor...");
+
+    // Detectar errores de carga o servidor offline
+    timeout = setTimeout(() => {
+        if (video.readyState === 0) {
+            mostrarAviso(" El canal está offline o no responde");
+        }
+    }, 10000);
+
+    if (Hls.isSupported()) {
+
+        hls = new Hls();
+
+        hls.loadSource(url);
+        hls.attachMedia(video);
+
+        hls.on(Hls.Events.MANIFEST_PARSED, function() {
+            clearTimeout(timeout);
+            aviso.style.display = "none";
+            video.play().catch(() => {
+                mostrarAviso("Pulsa reproducir para iniciar el video");
+            });
+        });
+
+        hls.on(Hls.Events.ERROR, function(event, data) {
+
+            if (data.fatal) {
+                clearTimeout(timeout);
+                mostrarAviso(" Canal offline o error de conexión");
+
+                hls.destroy();
+                hls = null;
+            }
+
+        });
+
+    } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
+
+        video.src = url;
+
+        video.addEventListener("loadedmetadata", function() {
+            clearTimeout(timeout);
+            aviso.style.display = "none";
+            video.play().catch(() => {
+                mostrarAviso("Pulsa reproducir para iniciar");
+            });
+        }, { once: true });
+
+        video.addEventListener("error", function() {
+            clearTimeout(timeout);
+            mostrarAviso(" Canal offline o enlace no válido");
+        }, { once: true });
+
+    } else {
+
+        clearTimeout(timeout);
+        mostrarAviso("Tu navegador no soporta reproducción HLS");
+
+    }
+}
+
+video.addEventListener("playing", () => {
+    clearTimeout(timeout);
+    aviso.style.display = "none";
+});
+
+video.addEventListener("waiting", () => {
+    mostrarAviso(" Cargando video...");
+});
+
+</script>
+
+</body>
+</html>
