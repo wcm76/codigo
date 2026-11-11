@@ -1,0 +1,186 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WebPlayer M3U8</title>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<style>
+    body {
+        margin: 0;
+        background: #111;
+        font-family: Arial, sans-serif;
+        color: white;
+    }
+
+    .player {
+        width: 100%;
+        max-width: 900px;
+        margin: 30px auto;
+        background: #000;
+        position: relative;
+    }
+
+    video {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        display: block;
+        background: #000;
+    }
+
+    #status {
+        text-align: center;
+        padding: 12px;
+        background: #222;
+        font-size: 14px;
+    }
+
+    .offline {
+        color: #ff4444;
+    }
+
+    .online {
+        color: #00dd77;
+    }
+</style>
+</head>
+
+<body>
+
+<div class="player">
+
+    <video id="video" controls autoplay playsinline></video>
+
+    <div id="status">Conectando al servidor...</div>
+
+</div>
+
+<script>
+
+const video = document.getElementById("video");
+const status = document.getElementById("status");
+
+// TU ENLACE M3U8
+const streamURL = "https://ejemplo.com/stream.m3u8";
+
+let hls = null;
+let reconnectTimer = null;
+let reconnectDelay = 3000;
+
+function showStatus(message, type = "") {
+    status.textContent = message;
+    status.className = type;
+}
+
+// Detectar conexión a Internet
+window.addEventListener("offline", () => {
+    showStatus("⚠ Sin conexión a Internet", "offline");
+});
+
+window.addEventListener("online", () => {
+    showStatus("Internet recuperado. Reconectando...", "");
+    reconnect();
+});
+
+// Inicializar reproductor
+function startPlayer() {
+
+    if (!navigator.onLine) {
+        showStatus("⚠ Estás offline. Esperando conexión...", "offline");
+        return;
+    }
+
+    showStatus("Conectando al streaming...");
+
+    if (hls) {
+        hls.destroy();
+        hls = null;
+    }
+
+    if (Hls.isSupported()) {
+
+        hls = new Hls({
+            enableWorker: true,
+            manifestLoadingMaxRetry: 3,
+            levelLoadingMaxRetry: 3,
+            fragLoadingMaxRetry: 3
+        });
+
+        hls.loadSource(streamURL);
+        hls.attachMedia(video);
+
+        hls.on(Hls.Events.MANIFEST_PARSED, () => {
+            showStatus("● En vivo", "online");
+            video.play().catch(() => {});
+            reconnectDelay = 3000;
+        });
+
+        hls.on(Hls.Events.ERROR, (event, data) => {
+
+            if (data.fatal) {
+                showStatus("⚠ Señal interrumpida. Reconectando...", "offline");
+                reconnect();
+            }
+        });
+
+    } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
+
+        video.src = streamURL;
+
+        video.addEventListener("loadedmetadata", () => {
+            showStatus("● En vivo", "online");
+            video.play().catch(() => {});
+        }, { once: true });
+
+        video.addEventListener("error", () => {
+            showStatus("⚠ Error de señal. Reconectando...", "offline");
+            reconnect();
+        }, { once: true });
+
+    } else {
+        showStatus("Tu navegador no soporta HLS", "offline");
+    }
+}
+
+// Reconexión automática
+function reconnect() {
+
+    clearTimeout(reconnectTimer);
+
+    if (!navigator.onLine) {
+        showStatus("⚠ Sin Internet. Esperando conexión...", "offline");
+        return;
+    }
+
+    reconnectTimer = setTimeout(() => {
+        startPlayer();
+
+        reconnectDelay = Math.min(
+            reconnectDelay * 2,
+            15000
+        );
+
+    }, reconnectDelay);
+}
+
+// Detectar video detenido
+video.addEventListener("stalled", () => {
+    showStatus("⚠ Señal detenida. Verificando conexión...", "offline");
+    reconnect();
+});
+
+video.addEventListener("playing", () => {
+    showStatus("● Reproduciendo en vivo", "online");
+    reconnectDelay = 3000;
+});
+
+// Iniciar
+startPlayer();
+
+</script>
+
+</body>
+</html>
