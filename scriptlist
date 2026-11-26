@@ -298,7 +298,7 @@ http://walnet.mooo.com:44/ATV-SUR/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/odBA0dp.png",PE | WILLAX
 http://45.186.254.75:8000/play/a0c6/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/95s2LJ3.png",PE | EXITOSA
-http://walnet.mooo.com:44/EXITOSA/index.m3u8
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 ###https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/EUR0pgV.png",PE | PBO
 http://walnet.mooo.com:44/PBO/index.m3u8
