@@ -318,10 +318,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/bitel/bicolorfree_48
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/MinueX6.png",PE | DEPORT-M0VI5T4R
 https://183.giatvcdn.com/ssh101/ssh101/deporte1/chunks.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/IxjQl0e.png",PE | LlM4X
-https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
-###http://walma.strangled.net:8300/play/a010/index.m3u8
-###https://lbgo.bozztv.com/ssh101/ssh101/vcanal/chunks.m3u8?lb_backend_hint=7
-#EXTINF:-1 group-title="Perú" tvg-logo="",Movistar
+https://183.giatvcdn.com/ssh101/ssh101/futsal/chunks.m3u8
 
 #EXTINF:-1 group-title="Perú" tvg-logo="",PE | Bella Asuncion
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
